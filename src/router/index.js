@@ -9,7 +9,7 @@ import Layout from '@/layout'
 /* Router Modules */
 // 导入modules下面的路由模块
 // import componentsRouter from './modules/components'
-import chartsRouter from './modules/charts'
+// import chartsRouter from './modules/charts'
 // import tableRouter from './modules/table'
 // import nestedRouter from './modules/nested'
 
